@@ -1,0 +1,51 @@
+ul {
+  font-size: 20px;
+  color: #4CAF50;
+}
+
+ol {
+  font-size: 20px;
+  color: #4CAF50;
+}
+
+div {
+  font-size: 20px;
+}
+
+div ul {
+  color: #4CAF50;
+}
+
+.football, .cricket, .kabbadi, .vollyball, .badminton, .kho-kho {
+  font-family: Candara;
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid #4CAF50;
+  padding: 20px;
+  margin: 20px;
+}
+
+.football {
+  background-color: #fdc5da;
+}
+
+.cricket {
+  background-color: #bafcf8;
+}
+
+.kabbadi {
+  background-color: #ccf5a1;
+}
+
+.vollyball {
+  background-color: #fdf9b3;
+}
+
+.badminton {
+  background-color: #f8c3ae;
+}
+
+.kho-kho {
+  background-color: #f7b1b1;
+}
+/*# sourceMappingURL=styling.css.map */
